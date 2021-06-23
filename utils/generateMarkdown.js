@@ -7,7 +7,6 @@ function generateMarkdown(readmeArr) {
   ${readmeArr.description}
 
   ## Table of Contents
-  
   * [Installation Instructions](#installation)
   * [Usage Information](#info)
   * [Contribution Guidelines](#guidelines)
@@ -16,16 +15,24 @@ function generateMarkdown(readmeArr) {
   * [Questions](#questions)
   
   ## Installation Instructions
+  ${readmeArr.installation}
 
   ## Usage Information
+  ${readmeArr.info}
 
   ## Contribution Guidelines
+  ${readmeArr.guidelines}
 
   ## Test Instructions
+  ${readmeArr.test}
 
   ## License
+  ${readmeArr.license}
 
   ## Questions
+  If you have any questions, 
+  you can find me at https://github.com/${readmeArr.github}
+  you can also reach me via email at ${readmeArr.email}
 `;
 }
 
