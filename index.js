@@ -58,13 +58,9 @@ const questions = () => {
     ]).then(readmeArr => writeToFile('./README.md', generateMarkdown(readmeArr)));
 
     function writeToFile(fileName, data) {
-        fileName = 'README.md'
-        fs.writeFileSync(fileName, data, err => {
-            if (err) {
-                console.log(err);
-            } else {
-                console.log('README file is generated');
-            }
+        fs.writeFileSync(fileName, data, function(err) {
+            if (err) throw err;
+            console.log('README file is generated');
         })
     }
 };
