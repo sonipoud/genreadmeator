@@ -3,6 +3,8 @@
 function generateMarkdown(readmeArr) {
   return `# ${readmeArr.title}
 
+  //license
+
   ## Description
   ${readmeArr.description}
 
