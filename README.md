@@ -1,9 +1,9 @@
-# bsjdc
+# readme generator
 
   ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  hbsxcj
+  dsjsnx
 
   ## Table of Contents
   * [Installation Instructions](#installation)
@@ -14,16 +14,16 @@
   * [Questions](#questions)
   
   ## Installation Instructions
-  bcj
+  jnsdk
 
   ## Usage Information
-  bcj
+  sjndkj
 
   ## Contribution Guidelines
-  jcnbsx
+  snbjdk
 
   ## Test Instructions
-  jncx 
+  nsbj
 
   ## License
   MIT
@@ -31,5 +31,5 @@
 
   ## Questions
   If you have any questions, 
-  you can find me at https://github.com/bsjx
-  you can also reach me via email at n cxs
+  you can find me at https://github.com/sonipoud
+  you can also reach me via email at sonikapoudyal5@gmail.com

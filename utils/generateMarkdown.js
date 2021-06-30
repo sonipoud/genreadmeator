@@ -1,7 +1,6 @@
 
 // TODO: Create a function to generate markdown for README
 function renderLicenseBadge(readmeArr){
-  console.log(readmeArr.license);
   if (readmeArr.license === 'MIT'){
     return `![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)`
   }
