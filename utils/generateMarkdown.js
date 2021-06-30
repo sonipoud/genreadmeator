@@ -1,15 +1,16 @@
 
 // TODO: Create a function to generate markdown for README
 function renderLicenseBadge(readmeArr){
-  if (readmeArr.license === 'MIT License'){
-    return `![MIT License](https://img.shields.io/badge/License-${readmeArr.license}-MIT-blue.svg)`
+  console.log(readmeArr.license);
+  if (readmeArr.license === 'MIT'){
+    return `![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)`
   }
 };
 
 function generateMarkdown(readmeArr) {
   return `# ${readmeArr.title}
 
-  ${renderLicenseBadge(readmeArr.license)}
+  ${renderLicenseBadge(readmeArr)}
 
   ## Description
   ${readmeArr.description}

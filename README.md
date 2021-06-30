@@ -1,9 +1,9 @@
-# ReadMe Generator
+# bsjdc
 
-  undefined
+  ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+  hbsxcj
 
   ## Table of Contents
   * [Installation Instructions](#installation)
@@ -14,16 +14,16 @@
   * [Questions](#questions)
   
   ## Installation Instructions
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+  bcj
 
   ## Usage Information
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+  bcj
 
   ## Contribution Guidelines
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+  jcnbsx
 
   ## Test Instructions
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+  jncx 
 
   ## License
   MIT
@@ -31,5 +31,5 @@
 
   ## Questions
   If you have any questions, 
-  you can find me at https://github.com/sonipoud
-  you can also reach me via email at sonika95@gmail.com
+  you can find me at https://github.com/bsjx
+  you can also reach me via email at n cxs
