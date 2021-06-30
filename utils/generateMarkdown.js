@@ -15,10 +15,10 @@ function generateMarkdown(readmeArr) {
   ${readmeArr.description}
 
   ## Table of Contents
-  * [Installation Instructions](#installation)
-  * [Usage Information](#info)
-  * [Contribution Guidelines](#guidelines)
-  * [Test Instructions](#test)
+  * [Installation Instructions](#installation-instructions)
+  * [Usage Information](#usage-information)
+  * [Contribution Guidelines](#contribution-guidelines)
+  * [Test Instructions](#test-instructions)
   * [License](#license)
   * [Questions](#questions)
   
@@ -42,6 +42,8 @@ function generateMarkdown(readmeArr) {
   If you have any questions, 
   you can find me at https://github.com/${readmeArr.github}
   you can also reach me via email at ${readmeArr.email}
+
+  Please see the video link for the README generator: [Link]()
 `;
 }
 
