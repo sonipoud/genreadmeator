@@ -43,7 +43,9 @@ function generateMarkdown(readmeArr) {
   you can find me at https://github.com/${readmeArr.github}
   you can also reach me via email at ${readmeArr.email}
 
-  Please see the video link for the README generator: [Link]()
+  Please see the video link for the README generator: [Link](https://drive.google.com/file/d/1UjuzcDWKnJQFdmL54VtFeiCPCpg68_nu/view)
+
+  <iframe src="https://drive.google.com/file/d/1UjuzcDWKnJQFdmL54VtFeiCPCpg68_nu/preview" width="640" height="480"></iframe>
 `;
 }
 
